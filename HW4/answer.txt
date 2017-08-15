@@ -1,0 +1,10 @@
+0	take a nap
+
+1	study heap-based priority queue
+
+101	review trees for Midterm 2
+
+3	do assignment 7
+
+50	I created this to put into my answer.txt :)
+
